@@ -87,7 +87,12 @@ p { margin-bottom: 15px }
     line-height: 0px;
     display: block;
 }
-
+#fixbio {
+  line-height: 20px;
+}
+#company {
+  border: 
+}
 .clearfix:after {
     content: "";
     display: block;
@@ -1615,7 +1620,7 @@ body.students ul li.home-blog-post{
 .home-blog-post h3 a:hover { color: #888 }
 
 .home-blog-post .excerpt p {
-    font-size: 13px;
+    font-size: 10px;
     margin-bottom: 0;
     padding: 0;
 }

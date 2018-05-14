@@ -41,10 +41,10 @@ Please collect the following content from your assigned student for their profil
 * Treehouse Account
 * CoderWall Account
 * CodeSchool Account
-* Favorite Websites
-* Previous Work Experience
+* Favorite Websites  
+* Previous Work Experience:  
 * Short Bio
-* Twitter URL
+* Twitter URL:
 * LinkedIn URL
 * Education
 
