@@ -42,8 +42,9 @@ Please collect the following content from your assigned student for their profil
 * CoderWall Account
 * CodeSchool Account
 * Favorite Websites
-* Previous Work Experience
+* Previous Work
 * Short Bio
+
 * Twitter URL
 * LinkedIn URL
 * Education

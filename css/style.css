@@ -88,6 +88,10 @@ p { margin-bottom: 15px }
     display: block;
 }
 
+#fixbio {
+  font-size: 11px;
+  line-height: 15.5px;
+}
 .clearfix:after {
     content: "";
     display: block;
@@ -96,6 +100,13 @@ p { margin-bottom: 15px }
     font-size: 0;
     height: 0;
 }
+
+/* #company{
+  padding-top:80px;
+      padding-right: 30px;
+      padding-bottom: 10px;
+      padding-left: 80px;
+} */
 
 .clearfix {
     *display: inline-block;
@@ -1615,10 +1626,12 @@ body.students ul li.home-blog-post{
 .home-blog-post h3 a:hover { color: #888 }
 
 .home-blog-post .excerpt p {
-    font-size: 13px;
+    font-size: 10px;
     margin-bottom: 0;
-    padding: 0;
+    line-height: 15px;
 }
+
+
 
 .home-blog-post .blog-text {
     font-size: 14px;
